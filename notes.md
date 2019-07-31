@@ -38,13 +38,17 @@ A paleoclimatologist named Lonnie Thompson who was pursuing CO2’s relationship
 
 The most recent of these cores were taken from the East Antarctic from a depth of 3.2 kilometers; the ice at this depth fell as snow 800,000 yrs ago.
 
-These ice cores are the smoking gun that provide a clear scientifically reproducible correlation between the concentration of CO2 and the earths temperature.
+These ice cores provide a clear scientifically reproducible correlation between the concentration of CO2 and the earth's temperature.
 
-More CO2 = hotter
+In general: More CO2 = hotter / Less CO2 = cooler
 
-Less CO2 = cooler
+What is evident from the ice core record is that there has never been a period of high concentrations of CO2 without a corresponding increase in temperature (where do these figures come from, look up Thompson's works?)
 
-What is evident from the ice core record is that there has never been a period of high concentrations of co2 without a corresponding increase in temperature
+Throw in something here about where we are at ppm wise?
+
+How it's currently changing?
+
+The this is how tings changed historically, this is where we are now graph ala Al Gore?
 
 While contested as biased the source of this “hockey stick” slide made famous by Al Gore’s film as actually from various US Government websites produced during the Bush administration, chiefly NOAA and the EPA.
 
@@ -52,21 +56,21 @@ That CO2 is the chief cause of planetary warming is what has been under debate f
 
 This is an incredibly controversial subject. You will find a wide range of opinions, predictions and scenarios, they will range from ones that see climate change as beneficial in that there will be greater crop yields and a stimulus to scientific and industrial processes to the apocalyptic, ones that state that we are done as a species and there is nothing that can avert extinction of ourselves and most everything else.
 
-For the purposes of sanity and this class we will try and stay to the middle road.
+For the purposes of sanity and this class we will try and stay on positive things; though this can be hard as even conservative/middle of the road places now are still very bad in terms of outlooks...
 
-The middle road though is still very bad.
+There is now a profound scientific consensus. In 2007 (update with most recent one! shit!) the IPCC, a UN chartered organization released its 4th assessment report. This report is comprised of peer-reviewed findings of 2,500 scientists from 130 countries.
 
-There is now a profound scientific consensus. In 2007 the IPCC, a UN chartered organization released its 4th assessment report. This report is comprised of peer-reviewed findings of 2,500 scientists from 130 countries.
+(also, any references from the US one??? did I print these to read, are they in my piles???)
 
-“ Warming of the climate system is unequivocal, as is now evident from observations of increases in global average of air and ocean temperatures, widespread melting of snow and ice, and rising average sea level.”
+“Warming of the climate system is unequivocal, as is now evident from observations of increases in global average of air and ocean temperatures, widespread melting of snow and ice, and rising average sea level.”
 
-IPCC 4th report summary NOV 2007
+IPCC 4th report summary NOV 2007 (AGAIN, UPDATE THIS!)
 
 We are now entering an age that is beyond the highest concentration of CO2 in the planets observable history.
 
 The present concentration of CO2 in the atmosphere is approximately 387 ppm.
 
-When I first began giving this lecture the amount was 380ppm.
+Sidenote: When this class first began the amount was 380ppm. (c02 ppm graphic since 2007?)
 
 The IPCC states that there is a 90% certainty that manmade CO2 in the atmosphere is the strongest driver of atmospheric changes in 10,000 years. We can now understand ourselves as a force of nature.
 
@@ -81,30 +85,28 @@ James Hansen of the Goddard Space Flight Institute has stated that the field of 
 So, as energy from the sun is trapped by the earth’s atmosphere this energy expresses itself in the form of heat. This is now causes several observable phenomena
 
 This includes:
-
-Sea level rise: as the planet heats the glaciers and polar regions melt, also oceans expand as they become warmer. This affects everything from the flow of ocean currents, the life inhabiting the oceans to the majority of the world’s population that inhabits the coastal areas.
-
-Hurricanes: a 2009 study conducted by the National Science Foundation and published in the journal Nature finds that hurricane activity has increased in both frequency and strength and is at its “highest level in 1,000 years”
-
-Drought and flood: warmer land and sea surface cause greater evaporation rates that cause both droughts in equatorial regions and greater rainfall in higher latitudes. This has a myriad of repercussions from a decreasing water supply in arid areas, stresses on indigenous and agricultural plant species, animal migrations and human refugees.
-
-Species loss: the earths climate is changing faster than species can adapt, predictions for many species and the food chain they are part of is very dire.
-
-Every single study performed on animal species over the past one hundred years has generated results of stress and depletion.
+- Sea level rise: as the planet heats the glaciers and polar regions melt, also oceans expand as they become warmer. This affects everything from the flow of ocean currents, the life inhabiting the oceans to the majority of the world’s population that inhabits the coastal areas.
+- Hurricanes: a 2009 study conducted by the National Science Foundation and published in the journal Nature finds that hurricane activity has increased in both frequency and strength and is at its “highest level in 1,000 years”
+- Drought and flood: warmer land and sea surface cause greater evaporation rates that cause both droughts in equatorial regions and greater rainfall in higher latitudes. This has a myriad of repercussions from a decreasing water supply in arid areas, stresses on indigenous and agricultural plant species, animal migrations and human refugees.
+- Species loss: the earths climate is changing faster than species can adapt, predictions for many species and the food chain they are part of is very dire. Every single study performed on animal species over the past one hundred years has generated results of stress and depletion.
 
 The most recent IPCC report has stated that we are committed to 2-4 feet of sea level rise and 8-10 F degree increase in temperature by the end of the century. The IPCC findings state that this will result in over 70 million refugees.
 
 Seen through an economic lens the cost of coping with such numbers of refugees and the loss of land could cripple even major nations.
 
-I mentioned earlier that the current concentration of CO2 in the atmosphere is about 387 the next important figure is 450. It is at this level that there is no historical precedent but computer modeling indicates a state of runaway climate change that is difficult for anyone to imagine our civilization continuing in.
+I mentioned earlier that the current concentration of CO2 in the atmosphere is about (387 THIS NEEDS UPDATING) the next important figure is 450. It is at this level that there is no historical precedent but computer modeling indicates a state of runaway climate change that is difficult for anyone to imagine our civilization continuing in.
 
 We are on a path to reach that level sometime in the next 50 – 100 years.
 
 It is now considered that in order for the atmosphere to remain stable a level of 350ppm must be reached, to do this we need to lower the amount of globally emitted CO2 by 90% by 2050.
 
+(350.org wants us to get back to 350ppm for example as a sensible atmospheric number based on historic data)
+
 What is also understood is that is that we don’t have 50-100 years to act. It takes awhile for the CO2 to reach the upper atmosphere. It also takes awhile to alter the industrial and social fabric of society. In modeling this, the scientific majority first led by James Hansen the Director of the Goddard Institute, the IPCC and now NASA to state in 2007 that we have approximately ten years before we are committed to passing this “tipping point”.
 
 So, according to this timeline we now have 7 years remaining.
+
+(the above 2 paragraphs are all off now; too old of data)
 
 Very, very dire.
 

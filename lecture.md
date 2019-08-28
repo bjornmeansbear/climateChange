@@ -20,6 +20,8 @@ At the most broad definition, climate change is simply the modification of earth
 
 Global warming is often used interchangeably with climate change — but global warming is an aspect of climate change — climate change includes global warming AND its effects. (wikipedia global warming page)
 
+Nasa defines climate change as a broad range of global phenomenon created predominantly by burning fossil fuels which add heat trapping gases to Earth’s atmosphere. These phenomenon include the increased temperature trends described by global warming. but also encompass changes such as sea level rise and ice mass loss in greenland, antarctica, and the arctic and mountain glaciers worldwide. Shifts in flower blooming, and more severe and extreme weather events.
+
 ## {everything is connected}
 
 Buckminster Fuller liked to refer to our planet as "spaceship earth" -- we float through space on our earth just like astronauts on a spaceship: we only have the air, food, and resources onboard.
@@ -111,9 +113,14 @@ There is now a profound scientific consensus. In 2017 the IPCC, a UN chartered o
 
 (also, any references from the US one??? did I print these to read, are they in my piles???)
 
-“Warming of the climate system is unequivocal, as is now evident from observations of increases in global average of air and ocean temperatures, widespread melting of snow and ice, and rising average sea level.”
+The scientific evidence has been mounting for decades. Recent analyses, including the latest National Climate Assessment (NCA) and the Intergovernmental Panel on Climate Change's (IPCC) most recent report, affirm what we already know: climate change is not some problem in the distant future—it's happening right now.
 
-IPCC 4th report summary NOV 2007 (AGAIN, UPDATE THIS!)
+Our new climate reality is fraught with stronger hurricanes, polar vortex shifts, recurrent high tide flooding, life-threatening heat waves, longer wildfire seasons, and more rain during heavy downpours. And studies show that climate change is not affecting everyone equally. Low-income communities and communities of color, as well as indigenous peoples, often suffer most.
+
+We have reached a tipping point on climate action—Scientists say we have roughly one decade left to avoid the most severe consequences of climate change. 
+
+“Warming of the climate system is unequivocal, as is now evident from observations of increases in global average of air and ocean temperatures, widespread melting of snow and ice, and rising average sea level.”
+— IPCC 4th report summary NOV 2007 (AGAIN, UPDATE THIS!)
 
 We are now entering an age that is beyond the highest concentration of CO2 in the planets observable history.
 
@@ -170,4 +177,4 @@ It is also the focus of this class.
 
 We will look at the range of problems and solutions from the individual to the global. We will look at how the fields of art and design are responding to this situation. We will discuss the possibility of our civilizations realigning its relationship to the planet. We will discuss how we consume its energy and manage our waste. We will study the potential of replacing fossil fuels with renewable energy sources and look at innovations in designing industrial and social systems that will both mitigate the causes of climate change and adapt to its unavoidable consequences.
 
-And so. That’s the bad news. The climate is potentially wrecked. But, there are clear solutions: get CO2 out of the atmosphere (and the ocean) and back into plants and the ground, etc. So, stop producing new carbon dioxide. Draw down the excess that we’ve put into the atmosphere already. There are so many potential ways to do this (from our transit to our food proaction to objects we make and buy to our societal fabric, etc.), and that gives me hope! We just have to start trying things immediately. Maybe that is where our class can come in?
+And so. That’s the bad news. The climate is potentially wrecked. But, there are clear solutions: get CO2 out of the atmosphere (and the ocean) and back into plants and the ground, etc. So, stop producing new carbon dioxide. Draw down the excess that we’ve put into the atmosphere already. There are so many potential ways to do this (from our transit to our food to political action to objects we make and buy to our societal fabric, etc.), and that gives me hope! We just have to start trying things immediately. Maybe that is where our class can come in?

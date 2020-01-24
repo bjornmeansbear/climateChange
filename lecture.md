@@ -5,15 +5,7 @@ This document needs more careful citing.
 Any additions, clarifications, improvements, whatever are acceptable
 ```
 
-This class is Climate Change and sustainability for Artists and Designers.
-
-I’m Kristian Bjornard; I’m filling in for Hugh Pocock while he’s on Sabbatical. I teach in the graphic design department — but! I have a background in fine art too. I was a painter and photographer in college. And also nearly a physics major. I’ve been interested in climate/enviro things for my whole life. And before I moved to Baltimore for Graduate school I was helping to make biodiesel and convert diesel cars to run on vegetable oil… And! I helped Hugh with this the first semester this class ran! Anyway, I ride my bicycle everywhere … and yeah, i’m trying to get more into the activism parts; the eco-socialist politics of today; and migrate my design practice to exclusively being about/for these issues. 
-
-As for the class… So, the first thing I hope we can do is share some common understanding about what climate change is.
-
-The following is what I've learned/discovered/understood so far.
-
-If you have questions or different understanding, bring it up and we will use today as a question generating opportunity. If you have more to share on something I mention please feel comfortable doing that.
+The first thing I hope we can do is share some common understanding about what climate change is. The following is what I've learned/discovered/understood so far. If you have questions or different understanding, bring it up and we will use today as a question generating opportunity. If you have more to share on something I mention please feel comfortable doing that.
 
 ## Climate Change Defined
 At the most broad definition, climate change is simply the modification of earth’s climate due to atmospheric changes. Understanding climate change means understanding earth's complex interconnected systems
